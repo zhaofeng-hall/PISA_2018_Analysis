@@ -23,5 +23,7 @@ conda install geopandas
 - **School questionnaire data file** https://webfs.oecd.org/pisa2018/SAS_SCH_QQQ.zip
 - **Country Classifications by Income** https://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html
 
+To run the Jupyter Notebook, you need to unzip the SCH.zip to read the datasets.
+
 ## Dictionary
 **PISA2018_CODEBOOK** https://webfs.oecd.org/pisa2018/PISA2018_CODEBOOK.xlsx
