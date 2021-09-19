@@ -4,7 +4,9 @@ PISA 2018 Analysis is my individual project during my study at Hyper Island. Thi
 
 ## Installation
 
-```Install jupyter notebook (please see https://jupyter.org/install for the details)```
+```
+Install jupyter notebook (please see https://jupyter.org/install for the details)
+```
 
 ## Required libraries
 
@@ -29,4 +31,6 @@ conda install geopandas
 **PISA2018_CODEBOOK** https://webfs.oecd.org/pisa2018/PISA2018_CODEBOOK.xlsx
 
 ## Run
-```git clone https://github.com/zhaofeng-hall/PISA_2018_Analysis```
+```
+git clone https://github.com/zhaofeng-hall/PISA_2018_Analysis
+```
