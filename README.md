@@ -33,4 +33,5 @@ conda install geopandas
 ## Run
 ```
 git clone https://github.com/zhaofeng-hall/PISA_2018_Analysis
+cd PISA_2018_Analysis
 ```
